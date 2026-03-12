@@ -164,7 +164,7 @@ export default function App() {
             <div className="w-8 h-8 bg-slate-900 rounded-lg flex items-center justify-center text-white text-[10px] font-black italic">T.T</div>
             <h2 className="text-xl font-black tracking-tighter">販売管理</h2>
           </div>
-          <p className="text-slate-400 text-[10px] font-bold uppercase tracking-widest">T.T/p>
+          <p className="text-slate-400 text-[10px] font-bold uppercase tracking-widest">T.T/</p>
         </div>
         <nav className="space-y-1">
           {['sales', 'analysis', 'customers'].map(view => (
