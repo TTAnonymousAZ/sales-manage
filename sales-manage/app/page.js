@@ -32,7 +32,7 @@ export default function App() {
             <h2 className="text-xl font-black tracking-tighter text-white">販売管理</h2>
           </div>
           <p className="text-slate-500 text-[10px] font-bold uppercase tracking-widest">
-            T.T Anonymous AZ
+            T.T
           </p>
         </div>
 
